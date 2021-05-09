@@ -1,0 +1,166 @@
+@media screen and (max-width: 767px) {
+
+/*header*/
+
+.brand h1 {
+	text-align: center;
+
+}
+
+.nav>li {
+    display: inline-block;
+}
+
+.nav>li>a {
+    padding: 10px 1px;
+    font-size: 12px;
+}
+
+.right-image {
+	float: none;
+}
+
+.collapse {
+    display: none;
+}
+
+/*banner*/
+
+.banner-row {
+    padding: 35px 0;
+}
+
+.banner-in1 {
+    padding-top: 5px;
+}
+
+.in1-content {
+    font-size: 20px;
+}
+
+.in1-content small {
+    font-size: 12px;
+}
+
+/*about*/
+
+.about-us {
+    padding: 11px 0;
+}
+
+.about-us img {
+    padding-bottom: 10px;
+}
+
+.about-us small {
+    padding-top: 10px;
+}
+
+/*sample form*/
+
+.form-div {
+    margin-right: inherit;
+}
+
+.sample-inner {
+    padding: inherit;
+}
+
+/*plans*/
+
+.plans-in {
+    padding: 0 0 0 0;
+}
+
+.thumbnail-in {
+    padding: 46px 0 0 12px;
+}
+
+/*buy*/
+
+.buy-1 {
+    padding: 15px 0;
+    font-size: 25px;
+}
+
+.buy-1 span {
+    width: 34%;
+}
+
+/*footer*/
+
+.copyright {
+	padding: 10px 0;
+	text-align: center;
+}
+
+
+.navbar-toggle .icon-bar {
+    background: #335eea;
+}
+
+.logo {
+	float: left;
+}
+
+.brand  button {
+	margin: 0;
+}
+
+.navbar-nav li {
+	width: 100%;
+}
+
+.back-bg {
+	padding-top: 0;
+}
+.sample {
+	padding: 0;
+}
+
+}
+
+
+@media screen and (min-width: 768px) and (max-width: 1024px) {
+
+/*banner*/
+
+.banner-row {
+    padding: 30px 0;
+}
+
+.banner-in1 {
+    padding-top: 0;
+}
+
+.in1-content {
+    font-size: 30px;
+}
+
+.in1-content small {
+    font-size: 12px;
+}
+
+
+/*sample form*/
+
+.form-div {
+    margin-right: 30px;
+}
+
+.sample-inner {
+    padding: 68px 0 0 0;
+}
+
+
+.buy-1 span {
+    width: 20%;
+}
+
+.thumbnail-in {
+    padding: 46px 15px 0 15px;
+}
+
+
+
+}
